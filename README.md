@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">Per aspera ad astra</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
