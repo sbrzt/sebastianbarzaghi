@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **stuff, stuff and more stuff**
 
 - 📫 How to reach me **sebastian.barzaghi@outlook.com**
 
