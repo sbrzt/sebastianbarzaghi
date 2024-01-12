@@ -1,2 +1,2 @@
 Working in progress...
-<img src="layered-waves-haikei.svg">
+<img src="blob-scene-haikei.svg">
